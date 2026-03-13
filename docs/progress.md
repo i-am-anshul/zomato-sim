@@ -6,11 +6,11 @@
 | # | Phase | Command | Status | Notes |
 |---|-------|---------|--------|-------|
 | 1 | Scope | /scope | ✅ Complete | Zomato-style sim. Gravity nudging. Leaflet + FastAPI + Redis. |
-| 2 | Architecture | /architect | ⬜ Pending | |
-| 3 | Frontend Design | /design-frontend | ⬜ Pending | |
-| 4 | Backend Design | /design-backend | ⬜ Pending | |
-| 5 | Build Frontend | /build-frontend | ⬜ Pending | |
-| 6 | Build Backend | /build-backend | ⬜ Pending | |
+| 2 | Architecture | /architect | ✅ Complete | Quick mode. Single-process monolith. Dual sim (nudged + naive). |
+| 3 | Frontend Design | /design-frontend | ✅ Complete | Quick mode. Tailwind, react-leaflet, useReducer. |
+| 4 | Backend Design | /design-backend | ✅ Complete | Quick mode. Written alongside frontend design. |
+| 5 | Build Frontend | /build-frontend | 🔄 In Progress | Building in parallel with backend. |
+| 6 | Build Backend | /build-backend | 🔄 In Progress | Building in parallel with frontend. |
 | 7 | Integration | /integrate | ⬜ Pending | |
 | 8 | Verification | /verify | ⬜ Pending | |
 
